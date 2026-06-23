@@ -1,4 +1,4 @@
-# NI Day 3: Data Formats and Storage for Electrophysiology with HDF5 and NWB
+# NI Day 3: Data Formats and Storage for Neurophysiology with HDF5 and NWB
 
 ## Staff
 
@@ -13,7 +13,7 @@
 
 ## Session Overview
 
-How do we store an electrophysiology recording so that someone else — or our
+How do we store an neurophysiology recording so that someone else — or our
 future selves — can open it months later and still know what every array means,
 how it was sampled, and where it came from?
 
