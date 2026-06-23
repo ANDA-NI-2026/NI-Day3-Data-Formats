@@ -1,1 +1,1 @@
-# NI-Day3-Data-Formats
+# Data Formats and Storage for Electrophysiology with HDF5 and NWB
